@@ -1,3 +1,4 @@
+#pip install xmpppy
 import xmpp
 
 username = '10000000001' #Sender
